@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Rasperon C&#39;s CIpherLog</title>
+    <link>http://localhost:1313/pages/</link>
+    <description>Recent content in Pages on Rasperon C&#39;s CIpherLog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language><atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/pages/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pages/about/</guid>
+      
+      <description>&lt;p&gt;I opened this site entirely for the sake of creating a second brain, observing my development process and improving myself. Maybe I will note what I have learned here, maybe not, I don&amp;rsquo;t know. My only goal is to observe the development process of myself. I don&amp;rsquo;t need someone to read it, but if someone reads this article, welcome to my schizophrenia world.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

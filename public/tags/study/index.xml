@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Study on Rasperon C&#39;s CIpherLog</title>
+    <link>http://localhost:1313/tags/study/</link>
+    <description>Recent content in Study on Rasperon C&#39;s CIpherLog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/study/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Learning Process</title>
+      <link>http://localhost:1313/posts/learning-process/firstpost/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/learning-process/firstpost/</guid>
+      
+      <description>&lt;p&gt;Hi, I&amp;rsquo;m Rasperon, and today we&amp;rsquo;re going to talk about why I created this blog. I’ve been reading about the benefits of keeping a journal for a long time, and finally, I managed to overcome my laziness and create an online journal called &amp;lsquo;Cipher Log.&amp;rsquo; Today may not be a very special day, but maybe one day if I become famous, people will say, &amp;lsquo;Hey, Rasperon started this blog on December 8th.&amp;rsquo; Sounds crazy, haha. Today wasn&amp;rsquo;t very productive, so the blog will stay empty for now. But from tomorrow, I&amp;rsquo;ll fill this place every day. (I hope)&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
