@@ -1,17 +1,18 @@
-# example netlify.toml
+# Settings in the [build] context are global and are applied to
+# all contexts unless otherwise overridden by more specific contexts.
+
 [build]
-  command = "hugo"
-  functions = "netlify/functions"
-  publish = "public"
+  base = "/"
+  publish = "exampleSite/public"
+  command = "cd exampleSite && hugo --gc --themesDir ../.."
 
 [build.environment]
-  HUGO_VERSION = "0.101.0"
+  HUGO_VERSION = "0.123.8"
+  GO_VERSION = "1.22.1"
+  NODE_VERSION = "20"
+  HUGO_THEME = "repo"
 
-[[plugins]]
-  package = "netlify-plugin-cypress"
-
-  [plugins.inputs.postBuild]
-    enable = true
-
-  [plugins.inputs]
-    enable = false
+# Deploy Preview context: all deploys generated from
+# a pull/merge request will inherit these settings.
+[context.deploy-preview]
+command = "cd exampleSite && hugo --gc --themesDir ../.. -b $DEPLOY_PRIME_URL"
